@@ -1,0 +1,41 @@
+Web API's 
+
+1. A web API (Application Programming Interface) is a set of protocols, tools, and standards used for building and interacting
+with web-based software applications.
+  Layman's terms: 
+  Its is like a special way for different computer programs to talk to each other over the internet or like a special telephone that computer 
+  programs can use to talk to each other over the internet.
+  Example: 
+  Let's say you have a game on your computer that needs to get information from a website. The game can use a web API to ask the website for the 
+  information it needs and get a response back.
+  
+
+2. A web API typically provides access to the functionality and data of a web application, allowing other software systems to 
+consume its resources and services. This can include retrieving data from a database, updating records, or performing other 
+operations.
+   layman's terms: 
+   An API helps one program access and use the information and services of another program that is running on the internet.
+   Examlple: 
+   A good example of a web API in action is the Twitter API, which allows developers to create applications that can interact with the Twitter platform. 
+   Twitter's special phone to ask for functionality to do things in your app like post tweets retrieving user data, searching for tweets or look up 
+   information about users.
+
+3. They can be designed to work with a variety of programming languages and platforms, making them flexible and widely 
+accessible. They are commonly used to integrate different software systems, enable cross-platform functionality, and automate 
+business processes. Some popular examples of web APIs include Google Maps API, Twitter API, and the Amazon Web Services API.
+   layman's terms: 
+   They make it easier for the computer programs to share information, work together and are often used to make different programs 
+   work together or to help businesses do things more quickly and easily.
+   Example: 
+   Basically the same thing again, some apps use Google Maps' special phone to show maps and directions within the app.
+  
+Another illustration would be how web APIs can help a business through payment processing services like Stripe. Stripe provides a web 
+API that businesses can use to accept payments online. By integrating Stripe's web API into their website or app, businesses can securely process 
+payments without needing to build their own payment processing system from scratch.
+
+ Synopsis:
+   In layman's terms, web APIs are like special phones that different computer programs can use to talk to each other over the internet. They allow 
+   different programs to work together and share information, making it easier for developers to create new applications and for businesses to automate 
+   tasks. Examples of web APIs include Twitter's API for posting tweets, Google Maps' API for showing maps, and Stripe's API for processing payments.
+   
+   
